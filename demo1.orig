@@ -1,0 +1,7 @@
+Changes done by developerB in file demo1
+Changes introduced by feature1 branch in file demo1
+<<<<<<< HEAD
+Changes done in feat1 branch to file demo1
+=======
+Changes done by feat2 branch in demo1 file
+>>>>>>> feat2
